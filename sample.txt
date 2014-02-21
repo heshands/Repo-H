@@ -1,2 +1,2 @@
 This is the first line 
-This is second line
+I changed This is second line to a new line
